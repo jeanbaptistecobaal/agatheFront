@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: fr.cobaal
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, data, data-jdbc, http-client, http-session, jackson-databind, java, java-application, jdbc-hikari, junit, logback, maven, netty-server, postgres, properties, readme, security-annotations, security-jwt, shade, testcontainers, views-rocker]
